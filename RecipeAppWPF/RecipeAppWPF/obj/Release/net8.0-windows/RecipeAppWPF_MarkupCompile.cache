@@ -1,0 +1,20 @@
+﻿RecipeAppWPF
+
+
+winexe
+C#
+.cs
+C:\Users\Admin\source\repos\Git repo\RecipeBook2\RecipeAppWPF\RecipeAppWPF\obj\Release\net8.0-windows\
+RecipeAppWPF
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\Users\Admin\source\repos\Git repo\RecipeBook2\RecipeAppWPF\RecipeAppWPF\App.xaml
+5-1604822628
+
+111436211716
+198155382431
+DisplayAllRecipesWindow.xaml;DisplayRecipeWindow.xaml;EnterRecipeWindow.xaml;IngredientWindow.xaml;MainWindow.xaml;
+
+True
+
