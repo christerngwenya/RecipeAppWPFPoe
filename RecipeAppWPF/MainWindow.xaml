@@ -1,0 +1,18 @@
+﻿<Window x:Class="RecipeAppWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RecipeAppWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="WELCOME TO RECIPE BOOK!!" FontSize="24" HorizontalAlignment="Center" Margin="10"/>
+            <Button Content="Enter recipe details" Click="EnterRecipe_Click" Margin="10"/>
+            <Button Content="Display a recipe" Click="DisplayRecipe_Click" Margin="10"/>
+            <Button Content="Display all recipes" Click="DisplayAllRecipes_Click" Margin="10"/>
+            <Button Content="Exit" Click="Exit_Click" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>
